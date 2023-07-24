@@ -8,7 +8,7 @@ trigger:
 
 pool:
   #vmImage: ubuntu-latest
-  name: 'Codespaces-pool'
+  name: 'GitHub-Codespaces-Pool'
 
 steps:
 - script: echo Hello, world!
